@@ -15,6 +15,9 @@ namespace Test1
         public Form1()
         {
             InitializeComponent();
+
+            //addded a bit here
+            label1.Text="Hello";
         }
     }
 }
