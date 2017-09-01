@@ -19,5 +19,10 @@ namespace Test1
             //addded a bit here
             label1.Text="Hello";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Bye";
+        }
     }
 }
