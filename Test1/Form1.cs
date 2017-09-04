@@ -18,6 +18,9 @@ namespace Test1
 
             //addded a bit here
             label1.Text="Hello";
+            
+            // and a bit more
+            label2.Text="Bye";
         }
     }
 }
